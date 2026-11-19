@@ -22,13 +22,22 @@ Untuk membuat build produksi, jalankan `npm run build`.
 
 ## Screenshot
 
-![Tampilan Awal] ()  
-![Setelah klik 'Tambah Todo'] ()  
-![Menambah Isian Todo] ()  
-![Todo Berhasil Ditambah] ()  
-![Melihat Detail Todo] ()  
-!['Konfirmasi Hapus Todo' Setelah Klik Tombol Sampah] (https://github.com/WhiteSnacc/to-do-list_pw5/blob/main/screenshot/konfirmasi-hapus.png)  
-![Todo Berhasil Dihapus] ()  
-![Memperbarui Todo] ()  
-![Todo Berhasil Diperbarui] ()  
-![Tampilan Akhir] ()  
+![Tampilan awal aplikasi](./screenshot/tampilan-awal.png)
+
+![Modal tambah todo](./screenshot/setelah-klik-tambah.png)
+
+![Form pengisian todo](./screenshot/mengisi-tambahan-todo.png)
+
+![Todo berhasil ditambahkan](./screenshot/todo-ditambah.png)
+
+![Halaman detail todo](./screenshot/melihat-detail-todo.png)
+
+![Konfirmasi penghapusan todo](./screenshot/konfirmasi-hapus.png)
+
+![Todo berhasil dihapus](./screenshot/todo-dihapus.png)
+
+![Memperbarui todo](./screenshot/sedang-mengupdate-todo.png)
+
+![Todo berhasil diperbarui](./screenshot/todo-diupdate.png)
+
+![Tampilan akhir aplikasi](./screenshot/tampilan-akhir.png)
