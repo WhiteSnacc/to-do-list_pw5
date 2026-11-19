@@ -22,13 +22,13 @@ Untuk membuat build produksi, jalankan `npm run build`.
 
 ## Screenshot
 
-![Tampilan Awal] ()
-![Setelah klik 'Tambah Todo'] ()
-![Menambah Isian Todo] ()
-![Todo Berhasil Ditambah] ()
-![Melihat Detail Todo] ()
-!['Konfirmasi Hapus Todo' Setelah Klik Tombol Sampah] ()
-![Todo Berhasil Dihapus] ()
-![Memperbarui Todo] ()
-![Todo Berhasil Diperbarui] ()
-![Tampilan Akhir] ()
+![Tampilan Awal] ()  
+![Setelah klik 'Tambah Todo'] ()  
+![Menambah Isian Todo] ()  
+![Todo Berhasil Ditambah] ()  
+![Melihat Detail Todo] ()  
+!['Konfirmasi Hapus Todo' Setelah Klik Tombol Sampah] (https://github.com/WhiteSnacc/to-do-list_pw5/blob/main/screenshot/konfirmasi-hapus.png)  
+![Todo Berhasil Dihapus] ()  
+![Memperbarui Todo] ()  
+![Todo Berhasil Diperbarui] ()  
+![Tampilan Akhir] ()  
